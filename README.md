@@ -1,5 +1,5 @@
 # Neochat
-
+[Open](https://neochat.surge.sh/)
 ## Overview
 This is a simple chatbot web application with an interactive UI. It includes user and bot chat features, dark/light mode switching, a rock-paper-scissors game, and predefined chatbot responses.
 
