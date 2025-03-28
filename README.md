@@ -29,16 +29,10 @@ This is a simple chatbot web application with an interactive UI. It includes use
 - The rock-paper-scissors game allows users to play against the bot, with random bot responses.
 - The dark/light mode toggle lets users switch themes dynamically.
 
-## Future Enhancements
-- Improve UI animations for a smoother experience.
-- Store chat history for better user interaction tracking.
-- Expand game choices beyond rock-paper-scissors.
-
-## Contributing
-If you'd like to contribute:
-1. Fork the repository.
-2. Make your changes.
-3. Submit a pull request.
+Just Made it for fun 
 
 Enjoy chatting with your bot! 😃
+
+@Created in 2024
+
 
