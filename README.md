@@ -14,7 +14,7 @@ Because sometimes you just want a bot to roast you
 and still say "Thanks mate!" after.
 
 ## Demo Moments
-- "Tell me a joke" → *gets roasted*
+- "Tell me a joke" → *gets roasted* (ex: When your parents dropped you off at pre school, they were arrested for littering.)
 - "Let's play rock paper scissors" → *loses anyway*
 - "I love u" → "How could you not when I'm this awesome?"
 
